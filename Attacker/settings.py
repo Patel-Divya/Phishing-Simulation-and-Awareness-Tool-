@@ -1,7 +1,7 @@
 FOLDER_PATH = r"Public directory path for attacker+\public"
 DB_NAME = "YOUR_DB_NAME"
 USER_NAME = "YOUR_USER_NAME"
-PASSWORD = "YOUR PASSWORD"
+PASSWORD = "YOUR_PASSWORD"
 HOST = "localhost"
 TABLE = "simulation_results"
 
