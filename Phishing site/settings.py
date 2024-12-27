@@ -1,0 +1,5 @@
+FOLDER_PATH = r"Your public folder path for Pshing site + \public"
+DB_NAME = "YOUR_DB_NAME"
+USER_NAME = "YOUR_USER_NAME"
+PASSWORD = "YOUR_PASSWORD"
+HOST = "localhost"
