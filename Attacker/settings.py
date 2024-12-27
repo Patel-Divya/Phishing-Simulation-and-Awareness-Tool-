@@ -1,4 +1,4 @@
-FOLDER_PATH = r"Public directory path for attacker+\public"
+FOLDER_PATH = r""Your public folder path for attacker site + \public"
 DB_NAME = "YOUR_DB_NAME"
 USER_NAME = "YOUR_USER_NAME"
 PASSWORD = "YOUR_PASSWORD"
